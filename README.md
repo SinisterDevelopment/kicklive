@@ -18,7 +18,7 @@ This QBCore server script announces in-game when a Kick.com streamer goes live. 
 
 1. **Download or clone this repository** into your server's `resources` folder:
     ```bash
-    git clone https://github.com/your-repo/kick-live-announcer.git
+    git clone https://github.com/SinisterDevelopment/kicklive.git
     ```
 
 2. **Edit `kicklive.lua`**:
