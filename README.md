@@ -31,7 +31,7 @@ This QBCore server script announces in-game when a Kick.com streamer goes live. 
       }
       ```
 
-      3. **Fastest Way To Add**:
+3. **Fastest Way To Add**:
     - Drop kicklive.lua in any MAIN QBCore server folder.
 
 ---
